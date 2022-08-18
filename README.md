@@ -1,5 +1,6 @@
 # subrecon
 Simple tool for scan WAF and scan sub domain
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## How to run 🖥️️
